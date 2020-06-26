@@ -161,6 +161,7 @@ input[type="radio"].visually-hidden {
 }
 
 .order-form-search:focus  {
+  padding-top: 11px;
   font-size: 17px;
   color: #000000;
   background-color: #ffffff;
